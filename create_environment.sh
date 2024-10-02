@@ -2,6 +2,7 @@
 scripting_dir=$(dirname "$0")
 
 env_dir="submission_reminder_app/"
+cp ./${scripting_dir}/.cache/* ./${scripting_dir}/
 
 dirs=(${env_dir}{app,modules,assets,config})
 
