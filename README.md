@@ -5,6 +5,7 @@ to begin you should have all necessary files (not exactly, you're prompted if a 
 - functions.sh
 - reminder.sh
 - submissions.txt
+
 run the script create_environment in the root directory of the repo
 
 ## Note:
